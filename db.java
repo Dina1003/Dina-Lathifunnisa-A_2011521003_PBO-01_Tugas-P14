@@ -7,7 +7,7 @@ import com.mysql.cj.protocol.Resultset;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.sql.*;
-
+ 
 public class db {
     static Connection conn;
 

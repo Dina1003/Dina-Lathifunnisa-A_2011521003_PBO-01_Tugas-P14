@@ -3,7 +3,7 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-import javax.management.Query;
+import javax.management.Query; 
 
 public class Transaksi extends db implements Penjualan  {
 
